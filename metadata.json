@@ -1,0 +1,6 @@
+{
+  "name": "LibraVerse — Smart College Library Management System",
+  "description": "Futuristic, intelligent college library management system featuring book discovery, instant borrowing, reservations, loan renewals, reading analytics, barcode scanner, role-based dashboards, and admin inventory control.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
